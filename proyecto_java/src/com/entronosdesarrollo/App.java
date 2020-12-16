@@ -6,7 +6,7 @@ public class App {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Hola Mundo");
+		System.out.println("Hola a los alumnos de 2º DAM");
 		
 		
 		
